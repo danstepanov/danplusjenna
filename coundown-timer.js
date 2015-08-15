@@ -18,7 +18,7 @@
 		//main countdown function
 		function countdown_proc() {
 
-			eventDate = 1439412600;
+			eventDate = 1439654400;
 
 			currentDate = Math.floor(Date.now() / 1000);
 
